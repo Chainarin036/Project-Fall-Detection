@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "914984028346",
+    "firebase_url": "https://myphonefall-default-rtdb.firebaseio.com",
+    "project_id": "myphonefall",
+    "storage_bucket": "myphonefall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914984028346:android:8c57c75a0b3c85c0f85a83",
+        "android_client_info": {
+          "package_name": "com.example.fall_detect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914984028346-es29flivib55ih65g5d6e91mlaivqa2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1ChrUnbNrMwfOk00Ka_lhhzLJNb7ZLQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914984028346-es29flivib55ih65g5d6e91mlaivqa2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914984028346:android:9c46471207e19bd7f85a83",
+        "android_client_info": {
+          "package_name": "com.example.falldetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914984028346-es29flivib55ih65g5d6e91mlaivqa2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1ChrUnbNrMwfOk00Ka_lhhzLJNb7ZLQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914984028346-es29flivib55ih65g5d6e91mlaivqa2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914984028346:android:5495c41b920c6b07f85a83",
+        "android_client_info": {
+          "package_name": "com.example.myphonefall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914984028346-es29flivib55ih65g5d6e91mlaivqa2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1ChrUnbNrMwfOk00Ka_lhhzLJNb7ZLQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914984028346-es29flivib55ih65g5d6e91mlaivqa2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
